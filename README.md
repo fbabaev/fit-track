@@ -155,34 +155,3 @@ src/
 └── types/
     └── index.ts        # TypeScript types
 ```
-
----
-
-## Screenshots
-
-### Dashboard Overview
-*KPI cards, adherence bar, interactive charts, date range filter*
-
-### Weight Trend Chart
-*Daily weigh-ins with 7-day moving average overlay and brush zoom*
-
-### Calories & Protein Chart
-*Bar + line combo with target reference lines, dual Y-axis*
-
-### Steps & Workout Activity
-*Steps bars color-coded green at/above target, workout line overlay*
-
-### Macro Breakdown
-*Stacked area chart — protein, carbs, fat over the Ramadan window*
-
-### Log Entry Form
-*Inline Zod validation, "Copy yesterday" prefill, organized sections*
-
-### Insights Page
-*Weekly summaries with sparklines, scatter plot (calories vs weight change)*
-
-### Settings Page
-*Configurable targets with adherence weighting breakdown*
-
-### Export Page
-*CSV/JSON export, drag-to-import, danger zone with two-step confirm*
